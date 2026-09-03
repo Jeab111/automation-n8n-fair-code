@@ -871,7 +871,7 @@
     "currency-codes": "2.1.0",
     "eventsource": "2.0.2",
     "fast-glob": "catalog:",
-    "fflate": "0.7.4",
+    "fflate": "0.7.5",
     "get-system-fonts": "2.0.2",
     "generate-schema": "2.6.0",
     "gm": "1.25.0",
